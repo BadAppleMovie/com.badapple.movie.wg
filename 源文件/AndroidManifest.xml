@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title>BadApple!ByJackHanner</title>
+<icon>icon.png</icon>
+<packageName>com.badapple.movie.wg</packageName>
+<versionName>1.5</versionName>
+<versionint>10</versionint>
+<sdk>15</sdk>
+<yuv>3</yuv>
+<remark></remark>
+<Permissions>android.permission.READ_EXTERNAL_STORAGE
+android.permission.REQUEST_INSTALL_PACKAGES
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.INTERNET</Permissions>
+<createTime>2021-05-21 21:14:14</createTime>
+<upTime>2021-05-21 21:14:14</upTime>

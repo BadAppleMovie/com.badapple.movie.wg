@@ -1,0 +1,69 @@
+<View id="1" did="0" type="LinearLayout">
+<ppt>width=-1
+height=-1
+orientation=vertical
+background=black</ppt>
+<event></event>
+</View>
+<View id="2" did="1" type="TextView">
+<ppt>width=-2
+height=-2
+text=MMMMM
+textSize=13sp
+textColor=#ffffffff
+typeface=@simsun.ttf
+//lineSpacingMultiplier=1.5
+//textScaleX=1.5</ppt>
+<event></event>
+</View>
+<View id="4" did="1" type="Button">
+<ppt>width=-2
+height=-2
+text=按钮4
+visibility=gone</ppt>
+<event><eventItme type="clicki">fr("@BA (25).txt",a)
+us(2,"text",a)</eventItme></event>
+</View>
+<View id="5" did="1" type="Button">
+<ppt>width=-2
+height=-2
+text=按钮5
+visibility=gone</ppt>
+<event></event>
+</View>
+<View id="6" did="1" type="WebView">
+<ppt>width=-2
+height=-2
+url=@BadApple.wav
+visibility=gone</ppt>
+<event></event>
+</View>
+<UIEventset><eventItme type="loading">uycl("#ff000000",true)
+ushsp(true)
+us(2,"textsize",sss.大小)
+fr("@paixu.txt",a)
+//syso(a)
+s b = "§"
+s g = "0"
+
+t()
+{
+
+w(g &lt; "6572")
+{
+//没法刚好匹配,速度掐在31和32
+stop(32)
+ufnsui()
+{
+sl(a, b, c)
+sgsz(c,g,d)
+ss("@out/"+d,s)
+syso(s)
+s(g+"1",g)
+fr(s,p)
+us(2,"text",p)
+}
+}
+}
+//ByJackHnaner,可二次开发,请留个名:JackHanner
+tw("JackHanner原创")</eventItme></UIEventset>
