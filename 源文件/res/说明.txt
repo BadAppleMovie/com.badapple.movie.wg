@@ -1,0 +1,4 @@
+由于github上传文件大小数量限制，导致部分资源文件无法上传:
+1，bad apple音频，下载链接:https://jackhanner.lanzoui.com/iqczJte63na 密码:d5zs
+下载后解压放至此目录
+2，主要资源文件:不用下载，只需将out.zip解压至本目录，解压后所有资源文件存在本目录的out/...
